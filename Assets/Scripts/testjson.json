@@ -1,0 +1,20 @@
+{
+    "playerList": [
+        {
+            "playerScore": 100,
+            "playerName": "Shoib Akthar"
+        },
+        {
+            "playerScore": 200,
+            "playerName": "Alice Johnson"
+        },
+        {
+            "playerScore": 150,
+            "playerName": "Bob Smith"
+        },
+        {
+            "playerScore": 180,
+            "playerName": "Charlie Brown"
+        }
+    ]
+}
