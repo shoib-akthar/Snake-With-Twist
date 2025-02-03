@@ -1,3 +1,3 @@
 # Snake-With-Twist
-![Menu](ss1.png)
-![Gameplay](ss20.jpeg)
+![Menu](Assets/ss1.png)
+![Gameplay](Assets/ss2.jpeg)
